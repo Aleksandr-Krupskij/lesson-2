@@ -1,0 +1,67 @@
+body{
+    margin: 0;
+}
+
+.wrapper{
+    width: 1400px;
+    height: 590px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+    color:#212121;
+    font-size: 36px;
+    height: 26px;
+    text-align: center;
+}
+
+hr {
+    border: none;
+    background-color:#FF8B38;
+    color:#FF8B38;
+    height: 2px;
+    width: 64px;
+}
+
+.box{
+    display: inline-block;
+    width: 350px;
+    margin: 80px 16px 102px;
+}    
+
+h2{
+    font-family: 'Open Sans', sans-serif;
+    color: #333333;
+    font-size: 20px;
+    text-align: center;
+    padding: 29px;
+}
+
+p{
+    font-family: 'Open Sans', sans-serif;
+    color: #86878B;
+    font-size: 14px;
+    text-align: center;
+}
+
+.circle{
+    border: 3px solid #FF8B38;
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    margin: 0 auto;
+}
+
+.light_bulb{
+    background: no-repeat center url(../images/light_bulb.png);
+}
+
+.keyboard{
+    background: no-repeat center url(../images/keyboard.png)
+}
+
+.lightning{
+    background: no-repeat center url(../images/light_bulb.png)
+}
